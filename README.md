@@ -54,3 +54,4 @@ npx expo start
 ### View the Project
 
 <img src="./assets/events-app.gif" width="300" />
+<img src="./assets/event-app.png" width="300" />
