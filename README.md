@@ -52,6 +52,5 @@ npx expo start
 ---
 
 ### View the Project
-
-![Interface GIF](./assets/events-app.gif)
-![Interface GIF](./assets/event-app.png)
+<span><img src="./assets/events-app.gif" width="300" /></span>
+<img src="./assets/event-app.png" width="300" align="left" />
