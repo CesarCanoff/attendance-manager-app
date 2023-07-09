@@ -29,12 +29,12 @@ npm -g install expo-cli
 
 ### Clone the repository
 ```bash
-git clone git@github.com:cesarcanoff/events-check.git
+git@github.com:cesarcanoff/events-check-in-app.git
 ```
 
 ### Navigate to the project directory
 ```bash
-cd events-check
+cd events-check-in-app
 ```
 
 ### Run App
